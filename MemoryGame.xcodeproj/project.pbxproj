@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		FD67CE972B75D3340015CCC8 /* AspectVGrid.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD67CE962B75D3340015CCC8 /* AspectVGrid.swift */; };
 		FDB0BF702B6C90FF00F56D35 /* MemoryGameApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = FDB0BF6F2B6C90FF00F56D35 /* MemoryGameApp.swift */; };
 		FDB0BF722B6C90FF00F56D35 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FDB0BF712B6C90FF00F56D35 /* ContentView.swift */; };
 		FDB0BF742B6C910200F56D35 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FDB0BF732B6C910200F56D35 /* Assets.xcassets */; };
@@ -36,6 +37,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		FD67CE962B75D3340015CCC8 /* AspectVGrid.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AspectVGrid.swift; sourceTree = "<group>"; };
 		FDB0BF6C2B6C90FF00F56D35 /* MemoryGame.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MemoryGame.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		FDB0BF6F2B6C90FF00F56D35 /* MemoryGameApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MemoryGameApp.swift; sourceTree = "<group>"; };
 		FDB0BF712B6C90FF00F56D35 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -106,6 +108,7 @@
 				FDB0BF762B6C910200F56D35 /* Preview Content */,
 				FDB0BF9B2B6CA3A500F56D35 /* MemoryGameModel.swift */,
 				FDB0BF9D2B6CA71B00F56D35 /* EmojiViewModel.swift */,
+				FD67CE962B75D3340015CCC8 /* AspectVGrid.swift */,
 			);
 			path = MemoryGame;
 			sourceTree = "<group>";
@@ -267,6 +270,7 @@
 			files = (
 				FDB0BF722B6C90FF00F56D35 /* ContentView.swift in Sources */,
 				FDB0BF702B6C90FF00F56D35 /* MemoryGameApp.swift in Sources */,
+				FD67CE972B75D3340015CCC8 /* AspectVGrid.swift in Sources */,
 				FDB0BF9C2B6CA3A500F56D35 /* MemoryGameModel.swift in Sources */,
 				FDB0BF9E2B6CA71B00F56D35 /* EmojiViewModel.swift in Sources */,
 			);
